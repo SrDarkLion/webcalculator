@@ -2,6 +2,8 @@
 
 Uma calculadora web moderna com design inspirado na calculadora do iOS, desenvolvida usando HTML, CSS e JavaScript.
 
+[Ir para Cat Math](https://catmath.netlify.app)
+
 ## 📋 Funcionalidades
 
 * Operações básicas:
